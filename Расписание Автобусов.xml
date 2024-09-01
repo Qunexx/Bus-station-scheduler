@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBusTrip xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BusTrip>
+    <TripNumber>1</TripNumber>
+    <BusType>малый</BusType>
+    <Route>
+      <RouteName>Казань-1</RouteName>
+      <Destination>Казань</Destination>
+      <Stops>
+        <Stop>
+          <StopName>Проверка документов</StopName>
+          <DistanceFromStart>50</DistanceFromStart>
+        </Stop>
+      </Stops>
+    </Route>
+    <DepartureTime>2024-06-18T07:00:00</DepartureTime>
+    <TravelHours>1</TravelHours>
+    <TravelMinutes>30</TravelMinutes>
+    <TotalSeats>30</TotalSeats>
+    <FreeSeats>20</FreeSeats>
+    <BookedSeats>10</BookedSeats>
+    <SoldSeats>10</SoldSeats>
+  </BusTrip>
+  <BusTrip>
+    <TripNumber>2</TripNumber>
+    <BusType>средний</BusType>
+    <Route>
+      <RouteName>Казань-2</RouteName>
+      <Destination>Казань</Destination>
+      <Stops />
+    </Route>
+    <DepartureTime>2024-06-18T09:00:00</DepartureTime>
+    <TravelHours>1</TravelHours>
+    <TravelMinutes>30</TravelMinutes>
+    <TotalSeats>50</TotalSeats>
+    <FreeSeats>30</FreeSeats>
+    <BookedSeats>15</BookedSeats>
+    <SoldSeats>5</SoldSeats>
+  </BusTrip>
+  <BusTrip>
+    <TripNumber>3</TripNumber>
+    <BusType>большой</BusType>
+    <Route>
+      <RouteName>Казань-3</RouteName>
+      <Destination>Казань</Destination>
+      <Stops>
+        <Stop>
+          <StopName>Проверка документов</StopName>
+          <DistanceFromStart>100</DistanceFromStart>
+        </Stop>
+      </Stops>
+    </Route>
+    <DepartureTime>2024-06-21T11:00:00</DepartureTime>
+    <TravelHours>1</TravelHours>
+    <TravelMinutes>30</TravelMinutes>
+    <TotalSeats>70</TotalSeats>
+    <FreeSeats>30</FreeSeats>
+    <BookedSeats>15</BookedSeats>
+    <SoldSeats>5</SoldSeats>
+  </BusTrip>
+  <BusTrip>
+    <TripNumber>4</TripNumber>
+    <BusType>малый</BusType>
+    <Route>
+      <RouteName>Москва-1</RouteName>
+      <Destination>Москва</Destination>
+      <Stops>
+        <Stop>
+          <StopName>Перерыв на туалет</StopName>
+          <DistanceFromStart>150</DistanceFromStart>
+        </Stop>
+        <Stop>
+          <StopName>Перерыв на туалет</StopName>
+          <DistanceFromStart>400</DistanceFromStart>
+        </Stop>
+        <Stop>
+          <StopName>Перерыв на туалет</StopName>
+          <DistanceFromStart>600</DistanceFromStart>
+        </Stop>
+      </Stops>
+    </Route>
+    <DepartureTime>2024-06-18T13:00:00</DepartureTime>
+    <TravelHours>7</TravelHours>
+    <TravelMinutes>30</TravelMinutes>
+    <TotalSeats>30</TotalSeats>
+    <FreeSeats>20</FreeSeats>
+    <BookedSeats>10</BookedSeats>
+    <SoldSeats>10</SoldSeats>
+  </BusTrip>
+  <BusTrip>
+    <TripNumber>5</TripNumber>
+    <BusType>средний</BusType>
+    <Route>
+      <RouteName>Москва-2</RouteName>
+      <Destination>Москва</Destination>
+      <Stops>
+        <Stop>
+          <StopName>Перерыв на туалет</StopName>
+          <DistanceFromStart>150</DistanceFromStart>
+        </Stop>
+        <Stop>
+          <StopName>Перерыв на туалет</StopName>
+          <DistanceFromStart>400</DistanceFromStart>
+        </Stop>
+        <Stop>
+          <StopName>Перерыв на туалет</StopName>
+          <DistanceFromStart>600</DistanceFromStart>
+        </Stop>
+      </Stops>
+    </Route>
+    <DepartureTime>2024-06-22T15:00:00</DepartureTime>
+    <TravelHours>7</TravelHours>
+    <TravelMinutes>30</TravelMinutes>
+    <TotalSeats>50</TotalSeats>
+    <FreeSeats>30</FreeSeats>
+    <BookedSeats>15</BookedSeats>
+    <SoldSeats>5</SoldSeats>
+  </BusTrip>
+  <BusTrip>
+    <TripNumber>6</TripNumber>
+    <BusType>большой</BusType>
+    <Route>
+      <RouteName>Москва-3</RouteName>
+      <Destination>Москва</Destination>
+      <Stops>
+        <Stop>
+          <StopName>Перерыв на туалет</StopName>
+          <DistanceFromStart>150</DistanceFromStart>
+        </Stop>
+        <Stop>
+          <StopName>Перерыв на туалет</StopName>
+          <DistanceFromStart>400</DistanceFromStart>
+        </Stop>
+        <Stop>
+          <StopName>Перерыв на туалет</StopName>
+          <DistanceFromStart>600</DistanceFromStart>
+        </Stop>
+      </Stops>
+    </Route>
+    <DepartureTime>2024-06-22T15:00:00</DepartureTime>
+    <TravelHours>8</TravelHours>
+    <TravelMinutes>0</TravelMinutes>
+    <TotalSeats>50</TotalSeats>
+    <FreeSeats>30</FreeSeats>
+    <BookedSeats>15</BookedSeats>
+    <SoldSeats>5</SoldSeats>
+  </BusTrip>
+</ArrayOfBusTrip>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBusTrip xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BusTrip>
+    <TripNumber>8</TripNumber>
+    <BusType>средний</BusType>
+    <Route>
+      <RouteName>СПб-2</RouteName>
+      <Destination>Санкт-Петербург</Destination>
+      <Stops>
+        <Stop>
+          <StopName>Перерыв на кофе</StopName>
+          <DistanceFromStart>200</DistanceFromStart>
+        </Stop>
+      </Stops>
+    </Route>
+    <DepartureTime>2024-06-19T12:00:00</DepartureTime>
+    <TravelHours>17</TravelHours>
+    <TravelMinutes>0</TravelMinutes>
+    <TotalSeats>50</TotalSeats>
+    <FreeSeats>40</FreeSeats>
+    <BookedSeats>10</BookedSeats>
+    <SoldSeats>0</SoldSeats>
+  </BusTrip>
+  <BusTrip>
+    <TripNumber>9</TripNumber>
+    <BusType>большой</BusType>
+    <Route>
+      <RouteName>СПб-3</RouteName>
+      <Destination>Санкт-Петербург</Destination>
+      <Stops>
+        <Stop>
+          <StopName>Перерыв на кофе</StopName>
+          <DistanceFromStart>200</DistanceFromStart>
+        </Stop>
+      </Stops>
+    </Route>
+    <DepartureTime>2024-06-20T18:00:00</DepartureTime>
+    <TravelHours>17</TravelHours>
+    <TravelMinutes>0</TravelMinutes>
+    <TotalSeats>70</TotalSeats>
+    <FreeSeats>50</FreeSeats>
+    <BookedSeats>20</BookedSeats>
+    <SoldSeats>0</SoldSeats>
+  </BusTrip>
+  <BusTrip>
+    <TripNumber>10</TripNumber>
+    <BusType>микро</BusType>
+    <Route>
+      <RouteName>СПб-3</RouteName>
+      <Destination>Санкт-Петербург</Destination>
+      <Stops>
+        <Stop>
+          <StopName>Перерыв на кофе</StopName>
+          <DistanceFromStart>200</DistanceFromStart>
+        </Stop>
+        <Stop>
+          <StopName>перекур</StopName>
+          <DistanceFromStart>500</DistanceFromStart>
+        </Stop>
+      </Stops>
+    </Route>
+    <DepartureTime>2024-06-20T18:00:00</DepartureTime>
+    <TravelHours>17</TravelHours>
+    <TravelMinutes>0</TravelMinutes>
+    <TotalSeats>70</TotalSeats>
+    <FreeSeats>50</FreeSeats>
+    <BookedSeats>20</BookedSeats>
+    <SoldSeats>0</SoldSeats>
+  </BusTrip>
+</ArrayOfBusTrip>
